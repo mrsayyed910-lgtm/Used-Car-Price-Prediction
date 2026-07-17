@@ -2,3 +2,5 @@ venv/
 _pycache_/
 *.pyc
 car_prediction.db
+model/car_price-model.pkl
+git add .gitignore
